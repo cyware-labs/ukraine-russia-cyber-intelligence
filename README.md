@@ -1,14 +1,14 @@
 # Ukraine <> Russia Cyber Intelligence Tracker
 
-- **[Introduction](https://github.com/cyware-labs/ukraine-russia-cyber-intelligence/new/main?readme=1#introduction)**
-- **[Vulnerabilities Exploited](https://github.com/cyware-labs/ukraine-russia-cyber-intelligence/new/main?readme=1#vulnerabilities-exploited)**
-- **[Malware's Used](https://github.com/cyware-labs/ukraine-russia-cyber-intelligence/new/main?readme=1#malwares-used)**
-- **[Cyber Groups](https://github.com/cyware-labs/ukraine-russia-cyber-intelligence/new/main?readme=1#cyber-groups)**
-- **[MITRE ATT&CK Techniques Used By Threat Actors](https://github.com/cyware-labs/ukraine-russia-cyber-intelligence/new/main?readme=1#mitre-attck-techniques-used-by-threat-actors)**
-- **[IOCs](https://github.com/cyware-labs/ukraine-russia-cyber-intelligence/new/main?readme=1#iocs)**
-- **[C2C Server Relations](https://github.com/cyware-labs/ukraine-russia-cyber-intelligence/new/main?readme=1#c2c-server-relations)**
-- **[Reports & Credits](https://github.com/cyware-labs/ukraine-russia-cyber-intelligence/new/main?readme=1#reports--credits)**
-- **[Contribution](https://github.com/cyware-labs/ukraine-russia-cyber-intelligence/new/main?readme=1#contribution)**
+- **[Introduction](https://github.com/cyware-labs/ukraine-russia-cyber-intelligence#introduction)**
+- **[Vulnerabilities Exploited](https://github.com/cyware-labs/ukraine-russia-cyber-intelligence#introduction)**
+- **[Malware's Used](https://github.com/cyware-labs/ukraine-russia-cyber-intelligence#malwares-used)**
+- **[Cyber Groups](https://github.com/cyware-labs/ukraine-russia-cyber-intelligence#cyber-groups)**
+- **[MITRE ATT&CK Techniques Used By Threat Actors](https://github.com/cyware-labs/ukraine-russia-cyber-intelligence#mitre-attck-techniques-used-by-threat-actors)**
+- **[IOCs](https://github.com/cyware-labs/ukraine-russia-cyber-intelligence#iocs)**
+- **[C2C Server Relations](https://github.com/cyware-labs/ukraine-russia-cyber-intelligence#c2c-server-relations)**
+- **[Reports & Credits](https://github.com/cyware-labs/ukraine-russia-cyber-intelligence#reports--credits)**
+- **[Contribution](https://github.com/cyware-labs/ukraine-russia-cyber-intelligence#contribution)**
 
 ## Introduction:
 
@@ -223,16 +223,27 @@ Below mentioned are few of the indicators observed to be involved with exploits 
 ## Reports & Credits:
 
 [https://media.defense.gov/2021/Jul/01/2002753896/-1/-1/1/CSA\_GRU\_GLOBAL\_BRUTE\_FORCE\_CAMPAIGN\_UOO158036-21.PDF](https://media.defense.gov/2021/Jul/01/2002753896/-1/-1/1/CSA_GRU_GLOBAL_BRUTE_FORCE_CAMPAIGN_UOO158036-21.PDF)
+
 [https://www.cisa.gov/uscert/ncas/current-activity/2022/02/26/cisa-releases-advisory-destructive-malware-targeting-organizations](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/26/cisa-releases-advisory-destructive-malware-targeting-organizations)
+
 [https://www.microsoft.com/security/blog/2022/01/15/destructive-malware-targeting-ukrainian-organizations/](https://www.microsoft.com/security/blog/2022/01/15/destructive-malware-targeting-ukrainian-organizations/)
+
 [https://blog.talosintelligence.com/2022/02/threat-advisory-hermeticwiper.html](https://blog.talosintelligence.com/2022/02/threat-advisory-hermeticwiper.html)
+
 [https://www.tesorion.nl/en/resources/pdfstore/Report-OSINT-Russia-Ukraine-Conflict-Cyberaspect.pdf](https://www.tesorion.nl/en/resources/pdfstore/Report-OSINT-Russia-Ukraine-Conflict-Cyberaspect.pdf)
+
 [https://inquest.net/blog/2022/02/10/380-glowspark](https://inquest.net/blog/2022/02/10/380-glowspark)
+
 [https://attack.mitre.org/groups/G0047/](https://attack.mitre.org/groups/G0047/)
+
 [https://www.thehindu.com/news/international/explained-the-hermetic-wiper-malware-that-targeted-ukraine/article65084652.ece](https://www.thehindu.com/news/international/explained-the-hermetic-wiper-malware-that-targeted-ukraine/article65084652.ece)
+
 [https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/unc1151-ghostwriter-update-report.pdf](https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/unc1151-ghostwriter-update-report.pdf)
+
 [https://www.securityweek.com/ukraine-attacks-involved-exploitation-log4j-october-cms-vulnerabilities](https://www.securityweek.com/ukraine-attacks-involved-exploitation-log4j-october-cms-vulnerabilities)
+
 [https://attack.mitre.org/groups/G0047/](https://attack.mitre.org/groups/G0047/)
+
 [https://cyberknow.medium.com/2022-russia-ukraine-war-cyber-group-tracker-6e08ef31c533](https://cyberknow.medium.com/2022-russia-ukraine-war-cyber-group-tracker-6e08ef31c533)
 
 ## Contribution:
